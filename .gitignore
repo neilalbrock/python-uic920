@@ -1,5 +1,6 @@
 .DS_Store
 env
-uic920.egg-info
+dist
+*.egg-info
 *.pyc
 *.tmproj
