@@ -14,7 +14,7 @@ setup(
     keywords = "uic 920 country codes",
     url = "https://github.com/neilalbrock/python-uic920",
     packages=['uic920'],
-    long_description=read('README.md'),
+    long_description=read('README.rst'),
     classifiers=[
         "Development Status :: 4 - Beta",
         "License :: OSI Approved :: MIT License",
